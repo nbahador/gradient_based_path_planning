@@ -65,7 +65,7 @@ An **interactive educational visualization** that demonstrates how gradient-base
 <td width="50%">
 
 ### 🎯 **What It Does**
-- Visualizes gradient field mathematics in action
+- Visualizes dynamic gradient field mathematics in action
 - Shows real-time path formation and adaptation
 - Demonstrates multiple trajectory planning
 - Provides hands-on parameter experimentation
